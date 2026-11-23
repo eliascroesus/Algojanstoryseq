@@ -1,12 +1,8 @@
-# Soft CTA: "The bots I personally use"
+# Soft CTA: "The bots I personally use" (v2)
 
-Very soft. No price, no offer details. Personal story, proof, then "here they are if you want to look".
+1. Hook (pool villa): Everyone keeps asking which bots I actually run
+2. Story + proof (boat): I only run 3–4, all built myself over 2.5 years. Biggest payouts: $2,810 FTMO, $2,363 Aquafunded
+3. Proof (iFX Expo): community runs the same bots: $2,000 Tradeify, Apex funded cert, $1,978 Aquafunded
+4. Soft CTA (lounge): No emotions, no revenge trades. Want to see the exact bots? Send me "BOTS"
 
-1. Hook (café, laptop): lots of DMs about my bots, here's the honest answer
-2. Story (sunset balcony): failed 10 FTMO challenges by hand, emotions not strategy, 2.5 yrs turning rules into bots
-3. Proof (city window): community running the same bots, getting funded (Lucid payout cert + AtlasFunded pass)
-4. CTA (rooftop, suit): every bot I personally use in one place, it's below → link sticker
-
-## In the app
-- Frame 4: place a real **link sticker** over the "SEE THE BOTS" pill, pointing to the bots page.
-- Optional frame 1: question sticker "What do you want to know about the bots?"
+No link sticker. Optional: add a "BOTS" reply prompt or question sticker on frame 4.
