@@ -1,10 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&display=swap');
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{width:1080px;height:1920px;overflow:hidden;background:#000}
 .bg{position:absolute;inset:0;background-size:cover;background-position:center}
-.stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:20px;padding:0 110px}
-.t{font-family:'Cormorant Garamond',serif;font-style:italic;font-weight:600;color:#fff;background:#0a0a0a;
- font-size:46px;line-height:1.15;text-align:center;padding:8px 20px;max-width:860px}
-.t em{color:#e3c27a}
+.stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:16px;padding:0 120px}
+.t{font-family:Inter,sans-serif;font-weight:500;color:#111;background:#fff;font-size:40px;line-height:1.22;text-align:center;padding:10px 22px;border-radius:4px;max-width:840px}
+.t em{font-style:normal;color:#e0a526}
 .card{position:absolute;border-radius:12px;overflow:hidden}
 .card img{display:block;width:100%}
