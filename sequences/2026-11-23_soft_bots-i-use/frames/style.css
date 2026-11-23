@@ -1,15 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500;1,700&family=Inter:wght@500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@1,600&display=swap');
 *{margin:0;padding:0;box-sizing:border-box}
 html,body{width:1080px;height:1920px;overflow:hidden;background:#000}
-.bg{position:absolute;inset:0;background-size:cover;background-position:center;filter:contrast(1.05) saturate(.95)}
-.shade{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.55) 0%,rgba(0,0,0,.15) 38%,rgba(0,0,0,.15) 55%,rgba(0,0,0,.7) 100%)}
-.stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:18px;padding:0 70px}
-.t{font-family:'Playfair Display',serif;font-style:italic;font-weight:500;color:#fff;background:rgba(8,8,8,.82);
- backdrop-filter:blur(8px);font-size:54px;line-height:1.2;text-align:center;padding:14px 30px 18px;border-radius:14px;max-width:940px}
-.t b{font-weight:700;color:#f2cf7a}
-.big{font-size:74px;padding:18px 36px 24px}
-.kick{font:800 30px Inter,sans-serif;letter-spacing:.28em;color:#f2cf7a;text-transform:uppercase;background:rgba(8,8,8,.82);padding:12px 24px;border-radius:999px}
-.card{position:absolute;border-radius:22px;overflow:hidden;box-shadow:0 30px 70px rgba(0,0,0,.7);border:3px solid rgba(255,255,255,.18)}
+.bg{position:absolute;inset:0;background-size:cover;background-position:center}
+.stack{position:absolute;left:0;right:0;display:flex;flex-direction:column;align-items:center;gap:20px;padding:0 110px}
+.t{font-family:'Cormorant Garamond',serif;font-style:italic;font-weight:600;color:#fff;background:#0a0a0a;
+ font-size:46px;line-height:1.15;text-align:center;padding:8px 20px;max-width:860px}
+.t em{color:#e3c27a}
+.card{position:absolute;border-radius:12px;overflow:hidden}
 .card img{display:block;width:100%}
-.amt{position:absolute;font:800 34px Inter,sans-serif;color:#0b0b0b;background:#f2cf7a;padding:8px 18px;border-radius:999px;box-shadow:0 8px 24px rgba(0,0,0,.5)}
-.kw{display:inline-block;font:800 64px Inter,sans-serif;font-style:normal;color:#0b0b0b;background:#f2cf7a;padding:6px 26px;border-radius:12px;letter-spacing:.06em}
